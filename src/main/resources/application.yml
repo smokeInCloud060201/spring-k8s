@@ -1,0 +1,6 @@
+server:
+  port: ${APPLICATION_PORT:8080}
+
+spring:
+  application:
+    name: spring-k8s
